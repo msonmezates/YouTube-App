@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 const VideoDetail = ({video}) => {
   return (
@@ -16,5 +17,9 @@ const VideoDetail = ({video}) => {
     </div>
   );
 }
+
+VideoDetail.propTypes = {
+  video: PropTypes.object
+};
 
 export default VideoDetail;
