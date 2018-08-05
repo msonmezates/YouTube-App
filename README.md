@@ -4,7 +4,7 @@
 
 ## Setup
 2. Clone repository: `git clone https://github.com/msonmezates/YouTube-App.gitt`
-3. Navigate into directory `cd YouTube-Appr`
+3. Navigate into directory `cd YouTube-App`
 4. Install dependencies `npm install`
 
 ## Run
