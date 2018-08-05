@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# YouTube App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+> This applications is a simple YouTube clone that is created with React.
 
-### Getting Started
+## Setup
+2. Clone repository: `git clone https://github.com/msonmezates/YouTube-App.gitt`
+3. Navigate into directory `cd YouTube-Appr`
+4. Install dependencies `npm install`
 
-There are two methods for getting started with this repo.
+## Run
+`npm start`
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+> Server runs on http://localhost:8080
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
