@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [https://youtubeapp.com](https://github.com/msonmezates/YouTube-App)
+To see the app in action, go to [https://youtubeapp.com](https://salty-gorge-89191.herokuapp.com/)
 
 ## Setup
 
